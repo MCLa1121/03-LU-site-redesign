@@ -131,6 +131,34 @@ nav a {
   margin-top: 0;
 }
 
+/* Testimonials Section */
+.testimonials {
+  background-color: #f6e8ff;
+}
+
+.testimonial-list {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+}
+
+.testimonial-card {
+  background-color: #ffffff;
+  padding: 25px;
+  border-radius: 20px;
+  width: 45%;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+.testimonial-card p {
+  font-style: italic;
+}
+
+.testimonial-card h3 {
+  color: #7b2d55;
+}
+
+
 /* Visit Us Section */
 .visit-us {
   background-color: #ffffff;
