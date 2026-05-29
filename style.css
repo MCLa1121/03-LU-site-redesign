@@ -10,15 +10,16 @@ body {
 /*change the font of the h1 to Sofia */
 h1 {
   font-family: "Sofia", sans-serif;
-  background-color: rgb(250, 246, 246);
   font-size: 3rem;
 }
+
 h2 {
   font-size: 2rem;
   margin-bottom: 20px;
 }
+
 p {
-  background-color: rgb(250, 246, 246);
+  
   font-size: 1rem;
 }
 
@@ -133,7 +134,7 @@ nav a {
 
 /* Testimonials Section */
 .testimonials {
-  background-color: #f6e8ff;
+  background-color: #fff8f0 ;
 }
 
 .testimonial-list {
@@ -219,5 +220,5 @@ footer {
   section {
     padding: 25px;
   }
-
+}
 
