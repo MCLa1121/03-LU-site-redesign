@@ -1,8 +1,8 @@
 /* Base Styles */
 body {
-  color: royalblue;
+  color: rgb(10, 10, 10);
   text-align: center;
-  background-color: bisque;
+  background-color: rgb(250, 246, 246);
   font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
