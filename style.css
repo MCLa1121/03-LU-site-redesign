@@ -7,6 +7,7 @@ body {
 }
 
 /* Typography */
+/*change the font of the h1 to Sofia */
 h1 {
   font-family: "Sofia", sans-serif;
 }
@@ -14,24 +15,41 @@ h1 {
 /* Links & Accents */
 
 /* Images */
+/* Ensure images are responsive and fit within their containers */
 img {
   max-width: 100%;
 }
 /* Hero Section */
+/* Style the header with a gradient background and padding */
 header {
   background: linear-gradient(135deg, #ffe1ec, #fff8f0);
   padding: 70px 20px 40px;
 }
 /* Main Content */
+/* Center the main content and set a maximum width for better readability */
 main {
   width: 90%;
   max-width: 1100px;
   margin: 0 auto;
 }
+/* Sections */
+section {
+  margin: 60px 0;
+  padding: 35px;
+  border-radius: 24px;
+}
 /* About Section */
+/* Style the about section with a white background and subtle shadow for depth, like a card */
+.about-us {
+  background-color: #ffffff;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.06);
+}
 
 /* Specials Section */
-
+/* Use a lighter color background for the specials section to make it stand out and feel inviting */
+.specials {
+  background-color: #fff0f5;
+}
 /* Visit Us Section */
 
 iframe {
