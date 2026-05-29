@@ -14,9 +14,14 @@ h1 {
 /* Links & Accents */
 
 /* Images */
-
+img {
+  max-width: 100%;
+}
 /* Hero Section */
-
+header {
+  background: linear-gradient(135deg, #ffe1ec, #fff8f0);
+  padding: 70px 20px 40px;
+}
 /* Main Content */
 
 /* About Section */
