@@ -67,11 +67,11 @@ section {
   font-weight: bold;
   color: #7b2d55;
 }
+
 /* Remove underline from navigation links */
 nav a {
     text-decoration: none;
 }
-
 
 .nav-links {
   list-style: none;
@@ -91,7 +91,7 @@ nav a {
 }
 
 /* About Section */
-/* Style the about section with a white background and subtle shadow for depth, like a card */
+/* Style section with a white background and subtle shadow for depth, like a card */
 .about-us {
   background-color: #ffffff;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.06);
@@ -102,6 +102,28 @@ nav a {
 .specials {
   background-color: #fff0f5;
 }
+
+/* Style the specials with a flex layout to create a cleaner arrangement */
+.specials-list {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+}
+
+.price-now {
+  color: #2e7d32;
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.price-was {
+  color: #777777;
+  text-decoration: line-through;
+  font-size: 0.95rem;
+  margin-top: 0;
+}
+
 /* Visit Us Section */
 
 iframe {
