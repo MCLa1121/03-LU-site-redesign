@@ -110,6 +110,13 @@ nav a {
   justify-content: center;
 }
 
+.special-offer img {
+  height: 180px;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 16px;
+}
+
 .price-now {
   color: #2e7d32;
   font-size: 1.4rem;
