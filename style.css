@@ -67,6 +67,11 @@ section {
   font-weight: bold;
   color: #7b2d55;
 }
+/* Remove underline from navigation links */
+nav a {
+    text-decoration: none;
+}
+
 
 .nav-links {
   list-style: none;
