@@ -3,10 +3,13 @@ body {
   color: rgb(10, 10, 10);
   text-align: center;
   background-color: rgb(250, 246, 246);
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Trirong", serif;
 }
 
 /* Typography */
+h1 {
+  font-family: "Sofia", sans-serif;
+}
 
 /* Links & Accents */
 
