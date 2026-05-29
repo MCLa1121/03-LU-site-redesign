@@ -33,7 +33,7 @@ img {
 /* Hero Section */
 /* Style the header with a gradient background and padding */
 header {
-  background: linear-gradient(135deg, #ffe1ec, #fff8f0);
+  background:rgb(250, 246, 246);
   /* padding: 70px 20px 40px; */
 }
 /* Main Content */
